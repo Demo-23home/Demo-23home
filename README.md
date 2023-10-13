@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeyad</h1>
-<h3 align="center">A passionate BackEnd developer from Dammitta</h3>
+<h3 align="center">A Passionate BackEnd Developer From Dammitta</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
