@@ -48,6 +48,7 @@ I have hands-on experience with a variety of technologies, enabling me to create
 ---
 
 ## Recent Activity
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demo23home&show_icons=true&theme=dark&title_color=14f017&text_color=f7f7f7&locale=en" alt="demo-23home" /></p>
 
 
