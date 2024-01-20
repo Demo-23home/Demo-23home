@@ -50,12 +50,12 @@ I have hands-on experience with a variety of technologies, enabling me to create
 - **MongoDB**: A NoSQL database program that provides flexibility and scalability for handling unstructured data.
 - **Nginx**: A web server known for its performance, reliability, and ability to handle high traffic.
 - **Postman**: A collaboration platform for API development that simplifies the testing and debugging process.
-- **Python**: The versatile programming language that serves as the foundation for various applications.
 - **RabbitMQ**: A message broker that facilitates communication between distributed systems.
 - **React**: A JavaScript library for building user interfaces, particularly for single-page applications.
 - **Redis**: An in-memory data structure store used as a cache and message broker.
 - **Selenium**: A tool for automating web browsers, commonly used for testing web applications.
-- **Tailwind CSS**: A utility-first CSS framework that simplifies the styling of web components.
+- **Tailwind CSS
+**: A utility-first CSS framework that simplifies the styling of web components.
 - **TypeScript**: A superset of JavaScript that adds static typing and other features to enhance code quality.
 
 
