@@ -54,8 +54,7 @@ I have hands-on experience with a variety of technologies, enabling me to create
 - **React**: A JavaScript library for building user interfaces, particularly for single-page applications.
 - **Redis**: An in-memory data structure store used as a cache and message broker.
 - **Selenium**: A tool for automating web browsers, commonly used for testing web applications.
-- **Tailwind CSS
-**: A utility-first CSS framework that simplifies the styling of web components.
+- **Tailwind CSS**: A utility-first CSS framework that simplifies the styling of web components.
 - **TypeScript**: A superset of JavaScript that adds static typing and other features to enhance code quality.
 
 
