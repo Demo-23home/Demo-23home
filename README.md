@@ -1,9 +1,6 @@
 # Hey there! 👋
 
-I'm Zeyad Salama, a fresh graduated Software Engineer on a mission to innovate and create in the world of technology. My passion lies in backend development, where I harness the power of Python and Django to craft seamless and efficient digital experiences.
-
-🎓 **Academic Pursuits:**
-Currently, I am deeply engaged in my Software Engineering studies, exploring the intricate realms of computer science and software development. My academic journey has equipped me with a strong foundation, driving my enthusiasm to contribute meaningfully to the tech landscape.
+I'm Zeyad Salama, a Software Engineer on a mission to innovate and create in the world of technology. My passion lies in backend development, where I harness the power of Python and Django to craft seamless and efficient digital experiences.
 
 💻 **Backend Overview:**
 My expertise revolves around Python and Django, where I excel in developing robust backend solutions. I thrive on solving complex challenges, designing scalable architectures, and optimizing code for peak performance. With every project, I aim to push the boundaries of what's possible in the digital realm.
