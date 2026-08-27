@@ -1,0 +1,27 @@
+<svg width="1200" height="14" viewBox="0 0 1200 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="track" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.22" stop-color="#0891B2"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="0.78" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect y="6" width="1200" height="2" rx="1" fill="url(#track)" opacity="0.75"/>
+  <rect x="-180" y="5" width="180" height="4" rx="2" fill="url(#pulse)" filter="url(#glow)">
+    <animate attributeName="x" from="-180" to="1200" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

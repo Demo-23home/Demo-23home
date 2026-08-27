@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20,24&text=Zeyad%20Salama&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=20&descAlignY=59&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Zeyad%20Salama&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Backend%20Focused&descSize=19&descAlignY=57&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems;Crafting+clean+and+scalable+APIs;Creating+modern+React+%26+Next.js+frontends;Turning+complex+ideas+into+maintainable+code;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
@@ -17,15 +17,26 @@
 ![GitHub followers](https://img.shields.io/github/followers/demo-23home?label=Followers&style=flat-square&color=2563eb)
 ![GitHub stars](https://img.shields.io/github/stars/demo-23home?affiliations=OWNER&style=flat-square&color=06b6d4)
 
+<br /><br />
+
+[**ABOUT**](#about) &nbsp;•&nbsp;
+[**EXPERTISE**](#expertise) &nbsp;•&nbsp;
+[**STACK**](#stack) &nbsp;•&nbsp;
+[**PROJECTS**](#projects) &nbsp;•&nbsp;
+[**STATS**](#stats) &nbsp;•&nbsp;
+[**CONTACT**](#contact)
+
 </div>
 
----
+![Animated gradient divider](./assets/neon-divider.svg)
+
+<a id="about"></a>
 
 ## `> whoami`
 
 ```python
 class ZeyadSalama:
-    role = "Backend Software Engineer"
+    role = "Full-Stack Software Engineer — Backend Focused"
     backend_stack = ["Python", "Django", "PostgreSQL"]
     frontend_stack = ["React", "Next.js", "TypeScript"]
     interests = ["API Design", "Clean Architecture", "Full-stack Products"]
@@ -53,6 +64,10 @@ class ZeyadSalama:
     <td>Interesting opportunities and meaningful collaborations</td>
   </tr>
 </table>
+
+![Animated gradient divider](./assets/neon-divider.svg)
+
+<a id="expertise"></a>
 
 ## `> build --what`
 
@@ -94,6 +109,8 @@ flowchart LR
     style F fill:#7e22ce,color:#fff,stroke:#c084fc
 ```
 
+<a id="stack"></a>
+
 ## `> tech --stack`
 
 <div align="center">
@@ -126,6 +143,8 @@ flowchart LR
 
 </details>
 
+![Animated gradient divider](./assets/neon-divider.svg)
+
 ## `> roadmap --current`
 
 <table>
@@ -153,6 +172,8 @@ flowchart LR
   </tr>
 </table>
 
+<a id="projects"></a>
+
 ## `> projects --featured`
 
 <div align="center">
@@ -164,6 +185,8 @@ flowchart LR
 </a>
 
 </div>
+
+![Animated gradient divider](./assets/neon-divider.svg)
 
 ## `> writing --latest`
 
@@ -183,20 +206,24 @@ flowchart LR
 
 </div>
 
+<a id="stats"></a>
+
 ## `> github --stats`
 
 <div align="center">
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=demo-23home&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=demo-23home&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6&row=1)
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=demo-23home&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Zeyad's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-23home&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&langs_count=8" alt="Zeyad's most-used public repository languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=demo-23home&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" alt="Zeyad's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-23home&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8&card_width=495" alt="Zeyad's most-used public repository languages" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=demo-23home&theme=algolia&hide_border=true&background=0D1117)
+<img width="70%" src="https://streak-stats.demolab.com?user=demo-23home&hide_border=true&background=0D1117&stroke=164E63&ring=22D3EE&fire=A78BFA&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=22D3EE&sideLabels=38BDF8&dates=8B949E" alt="Zeyad's contribution streak" />
 
 <sub>Language statistics are based on public repositories and do not indicate proficiency.</sub>
 
 </div>
+
+![Animated gradient divider](./assets/neon-divider.svg)
 
 ## `> contributions --timeline`
 
@@ -220,11 +247,21 @@ flowchart LR
 |:---:|:---:|:---:|:---:|
 | Breaking difficult problems into smaller, testable parts | Sharing ideas and lessons through Medium | Learning in public and contributing where I can | Building better outcomes through clear communication |
 
+<br />
+
 <div align="center">
 
-<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Random developer quote" />
+### “Build simply. Scale thoughtfully. Keep learning.”
+
+<sub>— My engineering principle</sub>
 
 </div>
+
+<br />
+
+![Animated gradient divider](./assets/neon-divider.svg)
+
+<a id="contact"></a>
 
 ## `> connect --with-me`
 
