@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=Zeyad%20Salama&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Backend%20Focused&descSize=19&descAlignY=57&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems;Crafting+clean+and+scalable+APIs;Creating+modern+React+%26+Next.js+frontends;Turning+complex+ideas+into+maintainable+code;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Engineering+robust+Python+%26+Django+backends;Building+modern+React+%26+Next.js+interfaces;Designing+clean+APIs+%26+scalable+systems;Shipping+reliable+full-stack+products)](https://git.io/typing-svg)
 
 <p>
   <a href="https://demo-23home.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-Explore-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -16,6 +16,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=demo-23home&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/demo-23home?label=Followers&style=flat-square&color=2563eb)
 ![GitHub stars](https://img.shields.io/github/stars/demo-23home?affiliations=OWNER&style=flat-square&color=06b6d4)
+![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-16A34A?style=flat-square)
 
 <br /><br />
 
@@ -32,7 +33,7 @@
 
 <a id="about"></a>
 
-## `> whoami`
+## 👨‍💻 About Me
 
 ```python
 class ZeyadSalama:
@@ -48,20 +49,20 @@ class ZeyadSalama:
 
 <table>
   <tr>
-    <td>🔭 <b>Building</b></td>
-    <td>Reliable backend services and clean APIs</td>
+    <td>🎯 <b>Specialization</b></td>
+    <td>Backend systems, API architecture, and full-stack products</td>
   </tr>
   <tr>
-    <td>🧠 <b>Exploring</b></td>
-    <td>System design, performance, and distributed systems</td>
+    <td>⚛️ <b>Frontend</b></td>
+    <td>Responsive React and Next.js applications with TypeScript</td>
   </tr>
   <tr>
-    <td>⚙️ <b>I value</b></td>
-    <td>Readable code, thoughtful architecture, and dependable delivery</td>
+    <td>⚙️ <b>Engineering priorities</b></td>
+    <td>Reliability, maintainability, performance, and clean architecture</td>
   </tr>
   <tr>
-    <td>🤝 <b>Open to</b></td>
-    <td>Interesting opportunities and meaningful collaborations</td>
+    <td>🤝 <b>Available for</b></td>
+    <td>Software engineering opportunities and meaningful collaborations</td>
   </tr>
 </table>
 
@@ -69,7 +70,7 @@ class ZeyadSalama:
 
 <a id="expertise"></a>
 
-## `> build --what`
+## 🧩 Core Expertise
 
 <table>
   <tr>
@@ -88,30 +89,9 @@ class ZeyadSalama:
   </tr>
 </table>
 
-## `> philosophy --engineering`
-
-> Great software is not only code that works—it is code that another engineer can understand, trust, and extend.
-
-```mermaid
-flowchart LR
-    A[Understand the problem] --> B[Design a simple contract]
-    B --> C[Build the smallest reliable solution]
-    C --> D[Test behavior and edge cases]
-    D --> E[Observe in production]
-    E --> F[Measure and improve]
-    F -. feedback .-> A
-
-    style A fill:#0e7490,color:#fff,stroke:#22d3ee
-    style B fill:#075985,color:#fff,stroke:#38bdf8
-    style C fill:#1d4ed8,color:#fff,stroke:#60a5fa
-    style D fill:#4338ca,color:#fff,stroke:#818cf8
-    style E fill:#6d28d9,color:#fff,stroke:#a78bfa
-    style F fill:#7e22ce,color:#fff,stroke:#c084fc
-```
-
 <a id="stack"></a>
 
-## `> tech --stack`
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -145,40 +125,13 @@ flowchart LR
 
 ![Animated gradient divider](./assets/neon-divider.svg)
 
-## `> roadmap --current`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 Deepening</h3>
-      <ul>
-        <li>Scalable system design</li>
-        <li>Database performance and indexing</li>
-        <li>Event-driven architecture</li>
-        <li>Testing and observability</li>
-        <li>Next.js rendering and performance</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Practicing</h3>
-      <ul>
-        <li>Designing clean service boundaries</li>
-        <li>Building resilient API integrations</li>
-        <li>Creating reusable React components</li>
-        <li>Automating delivery workflows</li>
-        <li>Writing clearer technical documentation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 <a id="projects"></a>
 
-## `> projects --featured`
+## 🚀 Featured Project
 
 <div align="center">
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=demo-23home&repo=Portfolio-Website&theme=algolia&hide_border=true&bg_color=0D1117)](https://github.com/demo-23home/Portfolio-Website)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=demo-23home&repo=Portfolio-Website&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA)](https://github.com/demo-23home/Portfolio-Website)
 
 <a href="https://github.com/demo-23home?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore all repositories" />
@@ -188,27 +141,9 @@ flowchart LR
 
 ![Animated gradient divider](./assets/neon-divider.svg)
 
-## `> writing --latest`
-
-<div align="center">
-
-### Fresh thoughts from my engineering journey ✍️
-
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- New Medium articles will appear here automatically after the workflow's first run.
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-[![Read all articles](https://img.shields.io/badge/Read_All_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@demo23home)
-
-</div>
-
 <a id="stats"></a>
 
-## `> github --stats`
+## 📈 GitHub Activity
 
 <div align="center">
 
@@ -221,17 +156,13 @@ flowchart LR
 
 <sub>Language statistics are based on public repositories and do not indicate proficiency.</sub>
 
-</div>
+<br /><br />
 
-![Animated gradient divider](./assets/neon-divider.svg)
-
-## `> contributions --timeline`
-
-<div align="center">
+### Contribution Timeline
 
 [![Zeyad's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=demo-23home&bg_color=0D1117&color=38BDF8&line=22D3EE&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/demo-23home)
 
-### Watch the contribution snake eat my commits 🐍
+### Contribution Snake 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demo-23home/Demo-23home/output/github-snake-dark.svg" />
@@ -241,38 +172,24 @@ flowchart LR
 
 </div>
 
-## `> beyond --code`
-
-| 🧩 Problem solving | ✍️ Technical writing | 🌱 Open source | 🤝 Collaboration |
-|:---:|:---:|:---:|:---:|
-| Breaking difficult problems into smaller, testable parts | Sharing ideas and lessons through Medium | Learning in public and contributing where I can | Building better outcomes through clear communication |
-
-<br />
-
-<div align="center">
-
-### “Build simply. Scale thoughtfully. Keep learning.”
-
-<sub>— My engineering principle</sub>
-
-</div>
-
-<br />
-
 ![Animated gradient divider](./assets/neon-divider.svg)
 
 <a id="contact"></a>
 
-## `> connect --with-me`
+## 🤝 Let’s Connect
 
 <div align="center">
 
-I enjoy meeting people who care about building useful, well-engineered software.
+I’m always interested in thoughtful engineering conversations, ambitious products, and challenging technical problems.
 
-**Have an idea, an opportunity, or a challenging backend problem? Let’s talk.**
+**Have an opportunity or a product worth building? Let’s connect.**
 
 [![Browse Projects](https://img.shields.io/badge/Browse_My_Projects-111827?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/demo-23home?tab=repositories)
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demo-23home/)
+
+<br />
+
+<sub>Thanks for visiting — keep building things that matter.</sub>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24)
 
