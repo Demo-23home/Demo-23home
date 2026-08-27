@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "15 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -23,7 +26,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#161B22,#164E63,#0891B2,#2563EB,#7C3AED
 
       - name: Publish animations to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist

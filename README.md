@@ -198,17 +198,6 @@ flowchart LR
 
 </div>
 
-## `> profile --snapshot`
-
-<div align="center">
-
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=demo-23home&theme=algolia)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=demo-23home&theme=algolia" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=demo-23home&theme=algolia" alt="Most committed languages" />
-
-</div>
-
 ## `> contributions --timeline`
 
 <div align="center">
@@ -218,9 +207,9 @@ flowchart LR
 ### Watch the contribution snake eat my commits 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/demo-23home/demo-23home/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/demo-23home/demo-23home/output/github-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/demo-23home/demo-23home/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demo-23home/Demo-23home/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demo-23home/Demo-23home/output/github-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/Demo-23home/Demo-23home/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -233,7 +222,7 @@ flowchart LR
 
 <div align="center">
 
-![Developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true" alt="Random developer quote" />
 
 </div>
 
