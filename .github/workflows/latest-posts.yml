@@ -1,0 +1,25 @@
+name: Update latest Medium posts
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Add latest Medium articles to README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@demo23home"
+          max_post_count: 5
+          template: "$newline- $emojiKey(🚀,⚙️,💡,🧠,🛠️) [$title]($url)"
